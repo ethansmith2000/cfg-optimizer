@@ -1,0 +1,6 @@
+*.cpython*
+*.log
+wandb/
+log/
+data/
+checkpoint/

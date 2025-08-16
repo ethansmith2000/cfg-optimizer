@@ -38,7 +38,7 @@ from types import SimpleNamespace
 # Dictionary of default arguments
 default_args = {
     'lr': 1e-4,
-    'base_grad_alpha': 0.9,
+    'base_grad_alpha': 1.0,
     'resume': False,
     'aug': True,
     'amp': False,
